@@ -1,0 +1,16 @@
+C:\Users\Admin\Downloads\Elavator\Elavator\bin\Debug\net10.0-windows\Elavator.exe
+C:\Users\Admin\Downloads\Elavator\Elavator\bin\Debug\net10.0-windows\Elavator.deps.json
+C:\Users\Admin\Downloads\Elavator\Elavator\bin\Debug\net10.0-windows\Elavator.runtimeconfig.json
+C:\Users\Admin\Downloads\Elavator\Elavator\bin\Debug\net10.0-windows\Elavator.dll
+C:\Users\Admin\Downloads\Elavator\Elavator\bin\Debug\net10.0-windows\Elavator.pdb
+C:\Users\Admin\Downloads\Elavator\Elavator\obj\Debug\net10.0-windows\Elavator.Form1.resources
+C:\Users\Admin\Downloads\Elavator\Elavator\obj\Debug\net10.0-windows\Elavator.vbproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Elavator\Elavator\obj\Debug\net10.0-windows\Elavator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Elavator\Elavator\obj\Debug\net10.0-windows\Elavator.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Elavator\Elavator\obj\Debug\net10.0-windows\Elavator.AssemblyInfo.vb
+C:\Users\Admin\Downloads\Elavator\Elavator\obj\Debug\net10.0-windows\Elavator.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Elavator\Elavator\obj\Debug\net10.0-windows\Elavator.dll
+C:\Users\Admin\Downloads\Elavator\Elavator\obj\Debug\net10.0-windows\refint\Elavator.dll
+C:\Users\Admin\Downloads\Elavator\Elavator\obj\Debug\net10.0-windows\Elavator.pdb
+C:\Users\Admin\Downloads\Elavator\Elavator\obj\Debug\net10.0-windows\Elavator.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Elavator\Elavator\obj\Debug\net10.0-windows\ref\Elavator.dll
